@@ -5,6 +5,6 @@ In this project, we'll generate our own Simpsons TV scripts using RNNs. we'll be
 <img src="./homer_image.jpg">
 
 # Generated Text
-Below is a sample of generated text. the quality of the model can ba optimized by using more data, since our current was is way to small.
+Below is a sample of generated text. the quality of the model can ba optimized by using more data, since our current one is way to small.
 
 <img src="./generated_text.png" aligh="right">
